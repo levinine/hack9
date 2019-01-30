@@ -7,7 +7,8 @@
 -	Mykhailo Horiachev
 -	Ihor Kozlov
 
-Repo: https://github.com/Levi9Unit42/phpunit
+Repo: https://github.com/Levi9Unit42/phpunit  
+Pull request: https://github.com/sebastianbergmann/phpunit/pull/3442
 
 **2nd prize** goes to Iasi and Jmeter plugin enhancements Team that implemented plugin for Jmeter:
 -	Monica Stavar
@@ -16,7 +17,8 @@ Repo: https://github.com/Levi9Unit42/phpunit
 -	Loredana Radu
 -	Oana Spiridon
 
-Repo: https://github.com/loredanalehadus/jmeter-plugins/tree/web-driver-enhancement
+Repo: https://github.com/loredanalehadus/jmeter-plugins/tree/web-driver-enhancement  
+Pull request: ?
 
 **3rd prize** goes to Novi Sad and Spenseri Gibzi team that implemented gateway routes in Spring Boot Admin:
 -	Stevan Kosijer
@@ -25,24 +27,31 @@ Repo: https://github.com/loredanalehadus/jmeter-plugins/tree/web-driver-enhancem
 -	Miro Zorboski
 -	Aleksandar Vlaskalic
 
-Repo: https://github.com/mzorba/spring-boot-admin
+Repo: https://github.com/mzorba/spring-boot-admin  
+[**ACCEPTED**]Pull request: https://github.com/codecentric/spring-boot-admin/issues/993
 
 
-**hacker votes** freeCodeCamp team from Kiev that made freeCodeCamp web application responsive and nice looking on mobile and tablets:
+**hacker votes:** freeCodeCamp team from Kiev that made freeCodeCamp web application responsive and nice looking on mobile and tablets:
 -	Dmytro Yarmak
 -	Ivan Nikolaievskyi
 -	Kostiantyn Larionov
 
-Repo: https://github.com/Hack9-freeCodeCamp/freeCodeCamp
+Repo: https://github.com/Hack9-freeCodeCamp/freeCodeCamp  
+[**ACCEPTED**]Pull requests:  
+https://github.com/freeCodeCamp/freeCodeCamp/pull/34602  
+https://github.com/freeCodeCamp/freeCodeCamp/pull/34605
 
 
-**hacker votes** .HARD Core team from Novi Sad  created localization for OptiKey on screen keyboard to help disabled people to type using low cost eye-tracking devices:
+
+**hacker votes:** .HARD Core team from Novi Sad  created localization for OptiKey on screen keyboard to help disabled people to type using low cost eye-tracking devices:
 -	Borislav Ervacanin
 -	Andrej Kamikovski
 -	Marko Dmitrovic
 -	Bratislav Baljak 
 -	Slobodan Dan
 
+Repo: https://github.com/OptiKey/OptiKey  
+[**ACCEPTED**]Pull requests: https://github.com/OptiKey/OptiKey/pull/526
 
 
 # All teams
